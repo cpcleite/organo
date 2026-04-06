@@ -6,10 +6,10 @@ import { ListaLivrosComponent } from './componentes/lista-livros/lista-livros.co
 @Component({
     selector: 'app-root',
     imports: [
-        CabecalhoComponent,
-        RodapeComponent,
-        ListaLivrosComponent,
-    ],
+    CabecalhoComponent,
+    RodapeComponent,
+    ListaLivrosComponent,
+],
     templateUrl: './app.html',
     styleUrls: ['./app.css']
 })
